@@ -1,4 +1,4 @@
-# CS391 Project 2 - Hotel Reservation Application
+Hotel Reservation Application ReactJS
 
 ## Run
 
