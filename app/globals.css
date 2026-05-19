@@ -32,6 +32,7 @@ body {
 .logo{
   color: #ffffff;
   font-weight: 800;
+  font-size: 20px;
 }
 
 .nav-link-pill {
@@ -64,7 +65,7 @@ body {
   border: 1px solid var(--app-border) !important;
   border-radius: 1.25rem !important;
   overflow: hidden;
-  box-shadow: 0 12px 28px rgba(30, 51, 91, 0.08);
+  box-shadow: 0 12px 58px rgba(116, 98, 0, 0.08);
 }
 
 .hover-lift {
